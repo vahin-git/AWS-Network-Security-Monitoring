@@ -41,7 +41,7 @@ This project automates **network security monitoring** by:
 
 ### 2️⃣ SSH Brute-Force Detection Alert  
 📌 **Detecting multiple SSH connection attempts and raising alerts.**  
-![SSH Attack Alert](screenshor/SSH_Brute-Force.png)  
+![SSH Attack Alert](screenshots/SSH_Brute-Force.png)  
 
 ### 3️⃣ Email Alert Sent on Threat Detection  
 📌 **Email alert notification for suspicious activity.**  
