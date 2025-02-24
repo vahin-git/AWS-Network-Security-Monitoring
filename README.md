@@ -37,15 +37,15 @@ This project automates **network security monitoring** by:
 ## 🔹 Screenshots  
 ### 1️⃣ Network Traffic Captured in Real-Time  
 📌 **This shows live network packets being captured.**  
-![Network Traffic](screenshots/network_traffic.png)  
+![Network Traffic](<img src="screenshots/network_traffic.png" alt="Network Traffic" width="700"/>)  
 
 ### 2️⃣ SSH Brute-Force Detection Alert  
 📌 **Detecting multiple SSH connection attempts and raising alerts.**  
-![SSH Attack Alert](screenshots/SSH_Brute-Force.png)  
+![SSH Attack Alert](<img src="screenshots/SSH_Brute-Force.png" alt="Network Traffic" width="700"/>)  
 
 ### 3️⃣ Email Alert Sent on Threat Detection  
 📌 **Email alert notification for suspicious activity.**  
-![Email Alert](screenshots/email_alert.png)  
+![Email Alert](<img src="screenshots/email_alert.png" alt="Network Traffic" width="700"/>)  
  
 
 ---
