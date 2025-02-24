@@ -41,7 +41,7 @@ This project automates **network security monitoring** by:
 
 ### 2️⃣ SSH Brute-Force Detection Alert  
 📌 **Detecting multiple SSH connection attempts and raising alerts.**  
-![SSH Attack Alert](screenshots/ssh_alert.png)  
+![SSH Attack Alert](<img width="500" alt="Screenshot 2025-02-24 at 10 05 32 pm" src="https://github.com/user-attachments/assets/0069d73d-dc1e-40fc-8d6e-d336dbfe7fcb" />)  
 
 ### 3️⃣ Email Alert Sent on Threat Detection  
 📌 **Email alert notification for suspicious activity.**  
@@ -108,6 +108,6 @@ Pull requests are welcome! If you'd like to contribute, please fork the reposito
 
 
 📢 Let's connect! Drop your thoughts or feedback.
-<img width="500" alt="Screenshot 2025-02-24 at 10 05 32 pm" src="https://github.com/user-attachments/assets/0069d73d-dc1e-40fc-8d6e-d336dbfe7fcb" />
+
 
 #CyberSecurity #CloudSecurity #AWS #Python #Automation #NetworkSecurity
