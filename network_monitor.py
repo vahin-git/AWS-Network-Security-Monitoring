@@ -3,9 +3,9 @@ import logging
 import yagmail
 
 # Email Configuration
-SENDER_EMAIL = "vahinsankar16@gmail.com"
-APP_PASSWORD = "qnaa aisu btzu kalt"
-RECEIVER_EMAIL = "vahinsankarcse2023@gmail.com"
+SENDER_EMAIL = #enter your email 
+APP_PASSWORD = #enter your app password
+RECEIVER_EMAIL = #enter receiver email
 
 # Set up email sender
 yag = yagmail.SMTP(SENDER_EMAIL, APP_PASSWORD)
